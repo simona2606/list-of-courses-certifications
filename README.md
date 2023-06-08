@@ -1,6 +1,6 @@
 # My academic life ✅
 
-Reserved repository to list a little of my academic life!
+Reserved repository to list a little of my academic life! 🩵
 
 ## Index 📌
 
