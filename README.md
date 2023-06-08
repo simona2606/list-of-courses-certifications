@@ -4,7 +4,12 @@ Reserved repository to list a little of my academic life!
 
 ## Index 📌
 
+* [Academic Education](#academic)
 * [Courses](#courses)
+
+<a name="academic"></a>
+## Academic Education ✏🎓
+* <b><em>Bachelor's degree of Computer Science</em></b> - University of Naples Federico II <a href="http://www.unina.it/home" target="_blank">website</a>. 2018-2023.
 
 <a name="courses"></a>
 ## Courses ✏️
