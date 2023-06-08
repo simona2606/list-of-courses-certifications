@@ -5,6 +5,8 @@ Reserved repository to list a little of my academic life!
 1. [Courses. ](#courses)
 
 <a name="courses"></a>
-## 1. Courses
+## Courses ✏️
+Below is a list of the courses I completed. There is currently 1 course with a total of 21 hours.
 
-bla
+Swift
+* iOS 16 Swift & SwiftUI - Complete iOS App Development. *School: https://www.udemy.com/. Duration: 21h 📎
