@@ -5,12 +5,17 @@ Reserved repository to list a little of my academic life! 🩵
 ## Index 📌
 
 * [Academic Education](#academic)
+* [Certifications](#certifications)
 * [Courses](#courses)
 * [Languages](#lang)
 
 <a name="academic"></a>
 ## Academic Education 🎓
 * <b>Bachelor's degree of Computer Science</b> - University of Naples Federico II <b><em><a href="http://www.unina.it/home" target="_blank">website</a></em></b>. 2018-2023.
+
+<a name="certifications"></a>
+## Certifications 💾
+* <b>LPIC-1</b> - Linux Professional Institute
 
 <a name="courses"></a>
 ## Courses ✏️
