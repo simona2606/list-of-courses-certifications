@@ -15,7 +15,7 @@ Reserved repository to list a little of my academic life! 🩵
 
 <a name="certifications"></a>
 ## Certifications 💾
-* <b>LPIC-1</b> - Linux Professional Institute <b><em><a href="https://www.lpi.org/it/" target="_blank">website</a></em></b> [LPIC-1.pdf](https://github.com/simona2606/list-of-courses-certifications/files/14664638/LPIC-1.pdf). 2024.
+* <b>LPIC-1</b> - Linux Professional Institute <b><em><a href="https://www.lpi.org/it/" target="_blank">website</a></em></b>. 📎 [LPIC-1.pdf](https://github.com/simona2606/list-of-courses-certifications/files/14664638/LPIC-1.pdf) 
 
 <a name="courses"></a>
 ## Courses ✏️
