@@ -16,7 +16,8 @@ Reserved repository to list a little of my academic life! 🩵
 <a name="certifications"></a>
 ## Certifications 💾
 * <b>LPIC-1</b> - Linux Professional Institute <b><em><a href="https://www.lpi.org/it/" target="_blank">website</a></em></b>. 📎 [LPIC-1.pdf](https://github.com/simona2606/list-of-courses-certifications/files/14664638/LPIC-1.pdf)
-* <b>AWS Cloud Practitioner</b> - Amazon Web Services <b><em><a href="https://aws.amazon.com/it/" target="_blank">website</a></em></b>. 📎 <a href="https://www.credly.com/badges/5c8bbeed-5669-4de4-941c-1b016fae95cc/public_url" target="_blank">here</a> </em></b> 
+* <b>AWS Cloud Practitioner</b> - Amazon Web Services <b><em><a href="https://aws.amazon.com/it/" target="_blank">website</a></em></b>. 📎 <a href="https://www.credly.com/badges/5c8bbeed-5669-4de4-941c-1b016fae95cc/public_url" target="_blank">here</a> </em></b>
+* <b>AWS Certified Developer - Associate</b> - Amazon Web Services <b><em><a href="https://aws.amazon.com/it/" target="_blank">website</a></em></b>. 📎 <a href="https://www.credly.com/badges/be7e08d5-4b9b-43be-a837-9fb3581ed0ba/public_url" target="_blank">here</a> </em></b>
 
 <a name="courses"></a>
 ## Courses ✏️
