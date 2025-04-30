@@ -11,7 +11,7 @@ Reserved repository to list a little of my academic life! 🩵
 
 <a name="academic"></a>
 ## Academic Education 🎓
-* <b>Master's degree in Cybersecurity and Cloud Technologies</b> - Università degli Studi di Salerno <b><em><a href="http://www.unisa.it/home" target="_blank">website</a></em></b>. 2023 &ndash; ….
+* <b>Master's degree in Cybersecurity and Cloud Technologies</b> - Università degli Studi di Salerno <b><em><a href="[http://www.unisa.it/home](https://www.unisa.it/)" target="_blank">website</a></em></b>. 2023 &ndash; &hellip;.
 * <b>Bachelor's degree in Computer Science</b> - Università degli Studi di Napoli Federico II <b><em><a href="http://www.unina.it/home" target="_blank">website</a></em></b>. 2018-2023.
 
 <a name="certifications"></a>
