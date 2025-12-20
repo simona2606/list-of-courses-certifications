@@ -25,9 +25,7 @@ Reserved repository to list a little of my academic life! 🩵
 ## Scientific Publications 📰
 Below is a list of my scientific publications.
 
-* <b>Phishing Detection in Web Domains: A New Intelligent Tool Leveraging the Effectiveness of Emerging Generative Models</b>.  
-  <b><em>ACM International Conference on Web Search and Data Mining (WSDM 2026), Boise, USA.  
-  Phishing detection, machine learning, large language models.</em></b>
+* <b>Phishing Detection in Web Domains</b>: A New Intelligent Tool Leveraging the Effectiveness of Emerging Generative Models. <b><em>ACM International Conference on Web Search and Data Mining (WSDM 2026)</em></b>, Boise, USA. Phishing detection, machine learning, large language models.
 
 <a name="lang"></a>
 ## Languages 📍
