@@ -6,7 +6,7 @@ Reserved repository to list a little of my academic life! 🩵
 
 * [Academic Education](#academic)
 * [Certifications](#certifications)
-* [Courses](#courses)
+* [Scientific Publications](#publications)
 * [Languages](#lang)
 
 <a name="academic"></a>
@@ -21,13 +21,13 @@ Reserved repository to list a little of my academic life! 🩵
 * <b>AWS Certified Developer - Associate</b> - Amazon Web Services <b><em><a href="https://aws.amazon.com/it/" target="_blank">website</a></em></b>. 📎 <a href="https://www.credly.com/badges/be7e08d5-4b9b-43be-a837-9fb3581ed0ba/public_url" target="_blank">here</a> </em></b>
 * <b>Terraform Associate (003)</b> - HashiCorp <b><em><a href="https://developer.hashicorp.com/terraform" target="_blank">website</a></em></b>. 📎 <a href="https://www.credly.com/badges/5122ab4e-468f-4d45-adc7-ca1b0029700d/public_url" target="_blank">here</a> </em></b>
 
-<a name="courses"></a>
-## Courses ✏️
-Below is a list of the courses I completed. There is currently 1 course with a total of 81.5 hours.
+<a name="publications"></a>
+## Scientific Publications 📰
+Below is a list of my scientific publications.
 
-<b>Swift</b>
-* iOS 16 Swift & SwiftUI - Complete iOS App Development. <b><em>School: <a href="https://www.udemy.com/" target="_blank">Udemy</a> Duration: 21h 📎 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-fb9ff747-8a78-4795-8f84-48be00518c9b.pdf" target="_blank">here</a> </em></b>
-* iOS & Swift - The Complete iOS App Development Bootcamp. <b><em>School: <a href="https://www.udemy.com/" target="_blank">Udemy</a> Duration: 60.5h 📎 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-085d85c3-01d0-488e-80af-bf3d2f39d27c.pdf" target="_blank">here</a> </em></b>
+* <b>Phishing Detection in Web Domains: A New Intelligent Tool Leveraging the Effectiveness of Emerging Generative Models</b>.  
+  <b><em>ACM International Conference on Web Search and Data Mining (WSDM 2026), Boise, USA.  
+  Phishing detection, machine learning, large language models.</em></b>
 
 <a name="lang"></a>
 ## Languages 📍
